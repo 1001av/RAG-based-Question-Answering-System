@@ -1,9 +1,9 @@
 # 📚 RAG-based PDF Question Answering System
 
-This project is a simple **Retrieval-Augmented Generation (RAG)** system that allows you to ask questions based on the content of PDF files.
+This project is a simple **Retrieval-Augmented Generation (RAG)** system that allows you to ask questions based on the content of PDF or .text files.
 
 It:
-- Loads PDFs from a local folder
+- Loads PDFs or .text files from a local folder
 - Splits them into chunks
 - Stores embeddings in a FAISS vector database
 - Retrieves relevant chunks for a query
