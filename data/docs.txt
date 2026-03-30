@@ -1,0 +1,5 @@
+Python is a programming language.
+SQL is used to manage databases.
+Machine learning enables computers to learn from data.
+RAG combines retrieval with generation.
+FAISS is a library for similarity search.
